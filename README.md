@@ -1,8 +1,64 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+# ✨👋 ¡Hola! Soy Mar 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 💼 **Sobre mí**  
+🌟 Soy un apasionada profesional de las bases de datos, especializado en **MySQL**.  
+💡 Mi experiencia abarca el diseño, desarrollo y optimización de bases de datos para aplicaciones empresariales y proyectos tecnológicos.  
+🤝 Creo firmemente en el poder del trabajo en equipo para crear soluciones eficientes y sostenibles que marcan la diferencia.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ **Habilidades Técnicas**  
+
+🔹 **Bases de Datos:**  
+- 🗂️ Diseño y modelado de bases de datos relacionales.  
+- ⚡ Consultas SQL avanzadas (optimización, subconsultas, vistas, índices).  
+- 🔄 Mantenimiento, migración y respaldo de bases de datos MySQL.  
+- 🔗 Integración de bases de datos con aplicaciones.  
+
+🔹 **Herramientas y Tecnologías:**  
+- 🖥️ **MySQL Workbench**, **phpMyAdmin**.  
+- 💻 Lenguajes relacionados: **Python**, **PHP** (integración con MySQL).  
+- 🌐 Control de versiones con **Git** y **GitHub**.  
+
+🔹 **Metodologías:**  
+- 🌀 Trabajo en equipo bajo enfoques ágiles (**Scrum**, **Kanban**).  
+- 📝 Documentación clara y procesos estructurados para una colaboración efectiva.  
+
+---
+
+## 🌟 **Lo que me motiva**  
+
+🚀 Creo en el **poder de los datos** como motor de decisiones estratégicas.  
+🎯 Me apasiona colaborar con equipos diversos para resolver problemas complejos y construir soluciones innovadoras.  
+💡 La mejora continua, el aprendizaje compartido y el enfoque en la calidad son los pilares de mi trabajo.  
+
+---
+
+## 📌 **Proyectos Destacados**  
+
+### 🔥 **[Nombre del Proyecto 1]**  
+- 📝 **Descripción:** [Qué hace el proyecto, qué problemas resuelve].  
+- 🛠️ **Tecnologías:** MySQL, [Otras tecnologías relevantes].  
+- 🔗 [Enlace al repositorio](#).  
+
+### 🌈 **[Nombre del Proyecto 2]**  
+- 📝 **Descripción:** [Qué hace el proyecto, qué problemas resuelve].  
+- 🛠️ **Tecnologías:** MySQL, [Otras tecnologías relevantes].  
+- 🔗 [Enlace al repositorio](#).  
+
+---
+
+## 🤝 **Colaboración y Contacto**  
+
+💌 Estoy siempre abierto a colaborar en proyectos que involucren:  
+- 📊 Bases de datos  
+- 🤖 Automatización  
+- 🚀 Optimización de sistemas  
+
+📧 **Email:** [tuemail@ejemplo.com]  
+🌐 **LinkedIn:** [Tu perfil de LinkedIn](#)  
+🐙 **GitHub:** [Tu perfil de GitHub](#)  
+
+---
+
+⭐️ ¡Gracias por visitar mi perfil! ¡Hagamos algo increíble juntos!  
