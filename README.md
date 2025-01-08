@@ -32,22 +32,6 @@
 🎯 Me apasiona colaborar con equipos diversos para resolver problemas complejos y construir soluciones innovadoras.  
 💡 La mejora continua, el aprendizaje compartido y el enfoque en la calidad son los pilares de mi trabajo.  
 
----
-
-## 📌 **Proyectos Destacados**  
-
-### 🔥 **[Nombre del Proyecto 1]**  
-- 📝 **Descripción:** [Qué hace el proyecto, qué problemas resuelve].  
-- 🛠️ **Tecnologías:** MySQL, [Otras tecnologías relevantes].  
-- 🔗 [Enlace al repositorio](#).  
-
-### 🌈 **[Nombre del Proyecto 2]**  
-- 📝 **Descripción:** [Qué hace el proyecto, qué problemas resuelve].  
-- 🛠️ **Tecnologías:** MySQL, [Otras tecnologías relevantes].  
-- 🔗 [Enlace al repositorio](#).  
-
----
-
 ## 🤝 **Colaboración y Contacto**  
 
 💌 Estoy siempre abierto a colaborar en proyectos que involucren:  
@@ -59,6 +43,4 @@
 🌐 **LinkedIn:** [Tu perfil de LinkedIn](#)  
 🐙 **GitHub:** [Tu perfil de GitHub](#)  
 
----
-
-⭐️ ¡Gracias por visitar mi perfil! ¡Hagamos algo increíble juntos!  
+⭐️ ¡Gracias por visitar mi perfil! 
